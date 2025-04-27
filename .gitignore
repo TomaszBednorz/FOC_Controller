@@ -1,0 +1,10 @@
+# Unnecessary KiCad project folders and files
+HW/PCB/FOC_Controller-backups/
+
+# Unnecessary STM32CubeIDE project folders and files
+Tools/STM32CubeIDE_projects/.metadata/
+Tools/STM32CubeIDE_projects/STM32G473RC_template/.settings/
+Tools/STM32CubeIDE_projects/STM32G473RC_template/Debug/
+Tools/STM32CubeIDE_projects/STM32G473RC_template/STM32G473RC_template.ioc
+Tools/STM32CubeIDE_projects/STM32G473RC_template/STM32G473RC_template.launch
+Tools/STM32CubeIDE_projects/STM32G473RC_template/STM32G473RC_test.launch
