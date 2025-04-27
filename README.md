@@ -11,7 +11,7 @@ The main goal of this project is to design a driver for a PMSM (Permanent Magnet
 More information: [Hardware folder](https://github.com/TomaszBednorz/FOC_Controller/tree/main/HW)
 
 ## STM32CubeIDE template
-<img src="https://github.com/user-attachments/assets/183b6ef8-8cbb-421c-8f44-e631d68ef617" width="720"/>
+<img src="https://github.com/user-attachments/assets/aefd9759-3e74-452f-96d7-2dcceb505311" width="720"/>
 
 Empty project with pins and peripherals configuration: [Template](https://github.com/TomaszBednorz/FOC_Controller/tree/main/Tools/STM32CubeIDE_projects/STM32G473RC_template)
 
