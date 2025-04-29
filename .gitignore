@@ -1,3 +1,8 @@
+
+# Unnecessary SW folder files
+SW/.vscode/
+SW/build/
+
 # Unnecessary KiCad project folders and files
 HW/PCB/FOC_Controller-backups/
 
