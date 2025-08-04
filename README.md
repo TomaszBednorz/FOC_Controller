@@ -2,13 +2,19 @@
 
 ## Description
 
-The main goal of this project is to design a driver for a PMSM (Permanent Magnet Synchronous Motor) and implement the FOC (Field-Oriented Control) algorithm in software.
+The main goal of this project is to design a driver for a PMSM (Permanent Magnet Synchronous Motor) and implement the FOC (Field-Oriented Control) algorithm in software - in the future.
 
 ## Hardware overview
 
 <img src="https://github.com/user-attachments/assets/e57d05f7-0395-470e-9880-70d6bf78ee1d" width="720"/>
 
 More information: [Hardware folder](https://github.com/TomaszBednorz/FOC_Controller/tree/main/HW)
+
+## Figres
+
+The FOC controller and PMSM motor.  
+
+<img src="https://github.com/user-attachments/assets/4818e863-b37a-4281-9dff-13e90d1d4dec" width="720"/>
 
 ## STM32CubeIDE template
 <img src="https://github.com/user-attachments/assets/aefd9759-3e74-452f-96d7-2dcceb505311" width="720"/>
